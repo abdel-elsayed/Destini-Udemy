@@ -2,6 +2,7 @@
 ![App Brewery Banner](Documentation/AppBreweryBanner.png)
 
 #  Destini
+<img src='https://github.com/abdel-elsayed/Destini-Udemy/blob/master/Screen%20Shot%202021-09-16%20at%2011.32.12%20AM.png' title='Screenshot' width='200' alt='Screenshot' />
 
 ## Our Goal
 
